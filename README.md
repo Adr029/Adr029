@@ -3,9 +3,9 @@
 I am a fresh Computer Science graduate looking for software development careers.
 
 #### About me
-* Graduate of BS Mathematics with specialization in Computer Science
-* Achieved Magna Cum Laude honors
-* Passionate in software development
+* 🎓 Graduate of BS Mathematics with specialization in Computer Science
+* 🥈 Achieved Magna Cum Laude honors
+* 🧑‍💻 Passionate in software development
 
 ## Experience
 
