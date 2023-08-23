@@ -15,7 +15,6 @@ I am a fresh Computer Science graduate looking for software development careers.
 * UI/UX Design
   
 ### Languages
-* C++
 * C#
 * Java
 
