@@ -16,14 +16,16 @@ I am a fresh Computer Science graduate looking for software development careers.
 ### Pet Projects
 * API Development
 * Web Backend Development
-  
+
+## Skills
+
 ### Languages: 
 * C#, Java, HTML, CSS, SQL
 ### Frameworks: 
 * Spring, Spring Boot, Thymeleaf
 ### APIs: 
 * RESTful APIs
-  
+### Tools: 
 <div align="center">
 
   ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
