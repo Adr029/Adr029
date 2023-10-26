@@ -21,10 +21,13 @@ I am a fresh Computer Science graduate looking for software development careers.
 
 ### Languages: 
 * C#, Java, HTML, CSS, SQL
+  
 ### Frameworks: 
 * Spring, Spring Boot, Thymeleaf
+  
 ### APIs: 
 * RESTful APIs
+  
 ### Tools: 
 <div align="center">
 
